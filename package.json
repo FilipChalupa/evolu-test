@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@effect/data": "^0.12.8",
+    "@effect/schema": "^0.20.2",
     "@types/node": "20.3.1",
     "@types/react": "18.2.13",
     "@types/react-dom": "18.2.6",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.6",
+    "evolu": "^6.1.1",
     "next": "13.4.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
